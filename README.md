@@ -2,8 +2,6 @@
 
 [EN]
 
-# WebShop
-
 This repository implements an e-commerce application consisting of a backend and a frontend. The content of this file is a public description and does not include routes, URLs, or sensitive data.
 
 ## Project description
@@ -46,9 +44,9 @@ The project was developed with a focus on modularity, scalability, and accessibi
 - Frontend: React, Vite, axios, react-router-dom, configured styling and build tools.
 
 
-[PT]
 
-# WebShop 
+
+[PT]
 
 Este repositório implementa uma aplicação de comércio eletrónico composta por um backend e um frontend. O conteúdo deste ficheiro é uma descrição pública e não inclui rotas, URLs ou dados sensíveis.
 
