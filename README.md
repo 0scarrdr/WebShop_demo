@@ -41,7 +41,7 @@ The project was developed with a focus on modularity, scalability, and accessibi
 ## Technologies used (summary)
 
 - Backend: Node.js, Express, ORM, relational database (PostgreSQL), JWT for authentication, multer for uploads.
-- Frontend: React, Vite, axios, react-router-dom, configured styling and build tools.
+- Frontend: React, Vite, axios, react-router-dom, configured styling and build tools.    
 
 
 
