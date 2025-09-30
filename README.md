@@ -29,7 +29,7 @@ The project was developed with a focus on modularity, scalability, and accessibi
 - Communication with the API via HTTP client (with error handling and loading states).
 - Scripts for development and build prepared for integration with the local backend.
 
-## Security observed (existing implementations)
+## Security (implementations)
 
 - Security headers applied on the server (basic measures configured).
 - Rate limiting to reduce the surface area for brute force attacks and abuse of sensitive endpoints.
@@ -38,14 +38,10 @@ The project was developed with a focus on modularity, scalability, and accessibi
 - Uploads validated by file type, extension, and size; randomly generated file names to avoid collisions/path traversal.
 - Token-based authentication with handling of expired and invalid tokens.
 
-## Technologies used (summary)
+## Technologies used
 
 - Backend: Node.js, Express, ORM, relational database (PostgreSQL), JWT for authentication, multer for uploads.
-- Frontend: React, Vite, axios, react-router-dom, configured styling and build tools.    
-
-
-
-
+- Frontend: React, Vite, axios, react-router-dom, configured styling and build tools.  <br/>
 
 [PT]
 
@@ -76,7 +72,7 @@ O projeto foi desenvolvido com foco em modularidade, escalonamento e acessibilid
 - Comunicação com a API através de cliente HTTP (com tratamento de erros e estados de carregamento).
 - Scripts para desenvolvimento e build preparados para integração com o backend local.
 
-## Segurança observada (implementações existentes)
+## Segurança (implementações)
 
 - Headers de segurança aplicados no servidor (medidas básicas configuradas).
 - Rate limiting para reduzir a superfície de ataques por força bruta e abusos de endpoints sensíveis.
@@ -85,7 +81,7 @@ O projeto foi desenvolvido com foco em modularidade, escalonamento e acessibilid
 - Uploads validados por tipo de ficheiro, extensão e tamanho; nomes de ficheiro gerados de forma aleatória para evitar colisões/ path traversal.
 - Autenticação baseada em tokens com tratamento de tokens expirados e inválidos.
 
-## Tecnologias utilizadas (resumo)
+## Tecnologias utilizadas
 
 - Backend: Node.js, Express, ORM, base de dados relacional (PostgreSQL), JWT para autenticação, multer para uploads.
 - Frontend: React, Vite, axios, react-router-dom, ferramentas de estilização e build configuradas.
